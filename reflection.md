@@ -107,3 +107,18 @@ Was there something that you wish had been explained better?
 Were there other exercises that might have helped you learn this week’s topic a little better?
 
     I think the exercises were good.
+
+### Jquery
+
+Were you able to complete the exercises on your own or did you use the videos or the solutions for help?
+
+    I used the videos for help.
+How helpful did you find the exercises in this section? Was there one exercise that was particularly helpful?
+
+    They were helpful.
+Was there something that you wish had been explained better?
+
+    I think it was explained well.
+Were there other exercises that might have helped you learn this week’s topic a little better?
+
+    No.
